@@ -42,10 +42,10 @@ class _MoviesPageState extends State<MoviesPage> {
       if (!movie["Actors_list"].isEmpty) {
         for (var actor in movie["Actors_list"]) {
           ActorModel actorDetails = ActorModel(
-              name: actor['name'],
-              asCharacter: actor['asCharacter'],
-              image: actor['image']);
-
+            name: actor['name'],
+            asCharacter: actor['asCharacter'],
+            image: actor['image'],
+          );
           actorModel.add(actorDetails);
         }
       }
@@ -89,47 +89,44 @@ class _MoviesPageState extends State<MoviesPage> {
         title: const Text('Movies'),
       ),
       body: SingleChildScrollView(
-        child: Container(
-          child: GridView.builder(
-              scrollDirection: Axis.vertical,
-              shrinkWrap: true,
-              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount:
-                      (Orientation == Orientation.portrait) ? 2 : 3),
-              itemCount: movieModel.length,
-              itemBuilder: (context, i) {
-                return Card(
-                  child: GridTile(
-                      child: Container(
-                    color: Colors.blue,
-                    width: 180,
-                    height: 170,
-                    child: Column(
-                      children: [
-                        (movieModel[i].image.toString() != "")
-                            ? Image.network(
-                                movieModel[i].image.toString(),
-                                width: 180,
-                                height: 130,
-                              )
-                            : Container(),
-                        Container(
-                          child: Column(
-                            children: [
-                              Row(
-                                children: [
-                                  Text(movieModel[i].title.toString())
-                                ],
-                              )
-                            ],
-                          ),
-                        )
-                      ],
-                    ),
-                  )),
-                );
-              }),
-        ),
+        child: GridView.builder(
+            scrollDirection: Axis.vertical,
+            shrinkWrap: true,
+            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                mainAxisSpacing: 9,
+                crossAxisSpacing: 6,
+                crossAxisCount: (Orientation == Orientation.portrait) ? 3 : 2),
+            itemCount: movieModel.length,
+            itemBuilder: (context, i) {
+              return Card(
+                child: GridTile(
+                    child: Container(
+                  color: Colors.blue,
+                  width: MediaQuery.of(context).size.width * 0.42,
+                  height: 200,
+                  child: Column(
+                    children: [
+                      (movieModel[i].image.toString() != "")
+                          ? Image.network(
+                              movieModel[i].image.toString(),
+                              width: 210,
+                              height: 160,
+                            )
+                          : Container(),
+                      Container(
+                        child: Column(
+                          children: [
+                            Row(
+                              children: [Text(movieModel[i].title.toString())],
+                            )
+                          ],
+                        ),
+                      )
+                    ],
+                  ),
+                )),
+              );
+            }),
       ),
       drawer: const MyDrawer(),
     );
