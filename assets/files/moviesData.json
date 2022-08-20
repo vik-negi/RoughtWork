@@ -1,0 +1,1415 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "Ratings": {
+                "imDb": "6.7",
+                "metacritic": "62",
+                "theMovieDb": "6.5",
+                "rottenTomatoes": "75",
+                "tV_com": "",
+                "filmAffinity": "5.8"
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1649789379/thumbnails/wwincdhiphulztpmbpdt.jpg",
+            "cloudinaryBanner_id": "video Banners/cagwwi8038iji5oprpsy",
+            "launchDate": "2022-04-12T18:52:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/wwincdhiphulztpmbpdt",
+            "cloudinaryVideo_id": "videos/keywcjty6xusjvtumpjt",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1649789401/videos/keywcjty6xusjvtumpjt.mp4",
+            "views": 0,
+            "Id": "tt3731562",
+            "directors": "Jordan Vogt-Roberts",
+            "type": "Movie",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BZDg0OGM1NWEtNDEwOC00OTE2LTliZWEtNzg1MTZkNjFlMmNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Action, Adventure, Fantasy",
+            "Languages": "English, Vietnamese",
+            "RuntimeStr": "1h 58min",
+            "Plot": "A washed up monster chaser convinces the U.S. Government to fund a trip to an unexplored island in the South Pacific. Under the guise of geological research, the team travels to \"Skull Island\". Upon arrival, the group discover that their mission may be complicated by the wildlife which inhabits the island. The beautiful vistas and deadly creatures create a visually stunning experience that is sure to keep your attention.",
+            "Writers": "Dan Gilroy, Max Borenstein, Derek Connolly",
+            "_id": "6255c9c3aeec613e1ca93eef",
+            "title": "Kong Skull",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6255c9c0aeec613e1ca93eee",
+            "Actors_list": [
+                {
+                    "_id": "6255ca04aeec613e1ca93ef0",
+                    "id": "nm1089991",
+                    "image": "https://imdb-api.com/images/original/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Tom Hiddleston",
+                    "asCharacter": "James Conradas James Conrad"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef1",
+                    "id": "nm0000168",
+                    "image": "https://imdb-api.com/images/original/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Samuel L. Jackson",
+                    "asCharacter": "Preston Packardas Preston Packard"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef2",
+                    "id": "nm0488953",
+                    "image": "https://imdb-api.com/images/original/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Brie Larson",
+                    "asCharacter": "Mason Weaveras Mason Weaver"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef3",
+                    "id": "nm0000604",
+                    "image": "https://imdb-api.com/images/original/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_Ratio1.0000_AL_.jpg",
+                    "name": "John C. Reilly",
+                    "asCharacter": "Hank Marlowas Hank Marlow"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef4",
+                    "id": "nm0000422",
+                    "image": "https://imdb-api.com/images/original/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "John Goodman",
+                    "asCharacter": "Bill Randaas Bill Randa"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef5",
+                    "id": "nm3659660",
+                    "image": "https://imdb-api.com/images/original/MV5BMWY0OGQ3NGEtZTg1OC00MWU0LWFkMjMtNGVlNzBjNzAwNDZmXkEyXkFqcGdeQXVyMjQxMzY5NzE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Corey Hawkins",
+                    "asCharacter": "Houston Brooksas Houston Brooks"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef6",
+                    "id": "nm0651159",
+                    "image": "https://imdb-api.com/images/original/MV5BMTU2OTY2NDQzOF5BMl5BanBnXkFtZTcwNDcyMzIzNw@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "John Ortiz",
+                    "asCharacter": "Victor Nievesas Victor Nieves"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef7",
+                    "id": "nm1320897",
+                    "image": "https://imdb-api.com/images/original/MV5BMTc1MDMzMjg1OV5BMl5BanBnXkFtZTgwODcxMzM0MzE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Tian Jing",
+                    "asCharacter": "Sanas San"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef8",
+                    "id": "nm1527905",
+                    "image": "https://imdb-api.com/images/original/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Toby Kebbell",
+                    "asCharacter": "Jack Chapmanas Jack Chapman…"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93ef9",
+                    "id": "nm4207146",
+                    "image": "https://imdb-api.com/images/original/MV5BMjA3NDU3MjM0OF5BMl5BanBnXkFtZTgwMDg0MjIzNDM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Jason Mitchell",
+                    "asCharacter": "Millsas Mills"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93efa",
+                    "id": "nm0924154",
+                    "image": "https://imdb-api.com/images/original/MV5BNTQzMDUwNjg1NF5BMl5BanBnXkFtZTgwMzE0NjcxNDE@._V1_Ratio1.0286_AL_.jpg",
+                    "name": "Shea Whigham",
+                    "asCharacter": "Coleas Cole"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93efb",
+                    "id": "nm3287038",
+                    "image": "https://imdb-api.com/images/original/MV5BZjhlYjNhNTgtOWY1MS00YjkyLWJjMTAtNWZkOTgyZjA4NWVhXkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Thomas Mann",
+                    "asCharacter": "Slivkoas Slivko"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93efc",
+                    "id": "nm3082341",
+                    "image": "https://imdb-api.com/images/original/MV5BMTgzMzM4NDc3MV5BMl5BanBnXkFtZTcwNjc1MTk1OQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Eugene Cordero",
+                    "asCharacter": "Relesas Reles"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93efd",
+                    "id": "nm1476601",
+                    "image": "https://imdb-api.com/images/original/MV5BYzg1YWJhMmQtNzc4ZC00OWJlLWE4ZDAtNmY3N2Y4NDY3M2I1XkEyXkFqcGdeQXVyMjAyNDI2OQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Marc Evan Jackson",
+                    "asCharacter": "Landsat Steveas Landsat Steve"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93efe",
+                    "id": "nm4311291",
+                    "image": "https://imdb-api.com/images/original/MV5BYmYwNzY0MDctOTI2Zi00ZGU0LTlkYmUtMjEzNjk5MTIyOTY3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Will Brittain",
+                    "asCharacter": "Young Marlowas Young Marlow…"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93eff",
+                    "id": "nm2032193",
+                    "image": "https://imdb-api.com/images/original/MV5BMTUxMzYyMjQ3M15BMl5BanBnXkFtZTgwODA5MjQ1MzE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Miyavi",
+                    "asCharacter": "Gunpei Ikarias Gunpei Ikari"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93f00",
+                    "id": "nm0420955",
+                    "image": "https://imdb-api.com/images/original/MV5BMzM5MzA4NDcyN15BMl5BanBnXkFtZTcwMDkwNjQzMg@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Richard Jenkins",
+                    "asCharacter": "Sen. Willisas Sen. Willis"
+                },
+                {
+                    "_id": "6255ca04aeec613e1ca93f01",
+                    "id": "nm2085100",
+                    "image": "https://imdb-api.com/images/original/MV5BNWExMWRkYWYtNmU2NC00NGRlLWIwNDUtMWY3YzU2NTBiMTJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3429_AL_.jpg",
+                    "name": "Allyn Rachel",
+                    "asCharacter": "Secretary O'Brienas Secretary O'Brien"
+                }
+            ],
+            "createdAt": "2022-04-12T18:49:39.802Z",
+            "updatedAt": "2022-04-12T18:52:00.004Z",
+            "__v": 0,
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1649789465/video%20Banners/cagwwi8038iji5oprpsy.jpg"
+        },
+        {
+            "Ratings": {
+                "imDb": "7.3",
+                "metacritic": "",
+                "theMovieDb": "7.3",
+                "rottenTomatoes": "65",
+                "tV_com": "",
+                "filmAffinity": "6.8"
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1649853890/thumbnails/sqjdyhrsia7e9bmn9u0e.jpg",
+            "cloudinaryBanner_id": "video Banners/x4ima2idjbgvv3d4mesp",
+            "launchDate": "2022-04-14T07:32:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/sqjdyhrsia7e9bmn9u0e",
+            "cloudinaryVideo_id": "videos/ts12i7j7zi2e1su4vs9h",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1649853899/videos/ts12i7j7zi2e1su4vs9h.mp4",
+            "views": 0,
+            "Id": "tt3735246",
+            "directors": "Sanjay Leela Bhansali",
+            "type": "Movie",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMWI3YTA1MDktYWNjOS00MTE5LTkzMTQtOWNiODY2MjIzYTQwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Action, Drama, History",
+            "Languages": "Hindi",
+            "RuntimeStr": "2h 38min",
+            "Plot": "Bajirao I, who fought over 41 major battles and several lesser ones, was reputed to have never lost any of them. Bajirao is described as \"RANMARD\" a man made of and for the battlefield. Bajirao told his brother \"Remember that night has nothing to do with sleep. It was created by God, to raid territory held by your enemy. The night is your shield, your screen against the cannons and swords of vastly superior enemy forces. \" A born cavalry leader, Bajirao was unequaled for the daring and originality of his genius. Mastani, the fabled warrior princess, was the daughter of Raja Chattrasal and his Persian wife Roohani Begum. An expert dancer, singer, and warrior, Mastani is sent to battle at the head of the Bundelkhand army. A chance meeting on a battlefield where they fight on the same side puts Bajirao and Mastani on a course of passionate love that is unstoppable by their families, by war, or by death itself.",
+            "Writers": "Nagnath S. Inamdar, Sanjay Leela Bhansali, Prakash Kapadia",
+            "_id": "6256c5c1b2ca2129ec9bc3b0",
+            "title": "Bajirao Mastani",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6256c5bfb2ca2129ec9bc3af",
+            "Actors_list": [
+                {
+                    "_id": "6257cdb5337dd27748f515b5",
+                    "id": "nm3828984",
+                    "image": "https://imdb-api.com/images/original/MV5BMTExOTcwMDU4NTReQTJeQWpwZ15BbWU3MDA0MjE1MTc@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Ranveer Singh",
+                    "asCharacter": "Peshwa Bajirao Ballalas Peshwa Bajirao Ballal"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515b6",
+                    "id": "nm2138653",
+                    "image": "https://imdb-api.com/images/original/MV5BNGFlYzAyYjgtNzRjNS00NmE4LTliOGYtYzBkYzU5MzRhMDM0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Deepika Padukone",
+                    "asCharacter": "Mastanias Mastani"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515b7",
+                    "id": "nm1231899",
+                    "image": "https://imdb-api.com/images/original/MV5BMjAxNzUwNjExOV5BMl5BanBnXkFtZTcwNDUyMTUxNw@@._V1_Ratio1.3429_AL_.jpg",
+                    "name": "Priyanka Chopra Jonas",
+                    "asCharacter": "Kashibaias Kashibai"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515b8",
+                    "id": "nm0044343",
+                    "image": "https://imdb-api.com/images/original/MV5BOTA4ZmI3MzgtYmNkNS00NWNiLWE0MWUtMDJmNTA2MWM3MTc3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Tanvi Azmi",
+                    "asCharacter": "Radha Maaas Radha Maa"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515b9",
+                    "id": "nm0542498",
+                    "image": "https://imdb-api.com/images/original/MV5BMzY3NjAwOTAzN15BMl5BanBnXkFtZTgwNjUzMjgzOTE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Mahesh Manjrekar",
+                    "asCharacter": "Chattrapati Shahu Maharajas Chattrapati Shahu Maharaj"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515ba",
+                    "id": "nm0613417",
+                    "image": "https://imdb-api.com/images/original/MV5BNDAzYzNkOGItM2I2My00M2ViLThhZTgtZjYxN2FiZWYzNzdmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Raza Murad",
+                    "asCharacter": "Nizam of Deccanas Nizam of Deccan"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515bb",
+                    "id": "nm0659156",
+                    "image": "https://imdb-api.com/images/original/MV5BMzkzNTk2OTk1MV5BMl5BanBnXkFtZTgwMjA1ODA0OTE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Aditya Pancholi",
+                    "asCharacter": "Panth Pratinidhias Panth Pratinidhi"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515bc",
+                    "id": "nm0813763",
+                    "image": "https://imdb-api.com/images/original/MV5BNmEyMDI1Y2EtNThiNy00NTM0LThkZTMtZTc4YTNkZDkyNjMxXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Milind Soman",
+                    "asCharacter": "Ambaji Panthas Ambaji Panth"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515bd",
+                    "id": "nm7052812",
+                    "image": "https://imdb-api.com/images/original/MV5BNjNhYzNhOGEtNTg0My00N2FhLThkZjAtM2JjZmY0YWEyNzY0XkEyXkFqcGdeQXVyNDU5MzA2NzI@._V1_Ratio1.6429_AL_.jpg",
+                    "name": "Vaibhav Tatwawadi",
+                    "asCharacter": "Chimajias Chimaji"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515be",
+                    "id": "nm1244971",
+                    "image": "https://imdb-api.com/images/original/MV5BMjA1MzUzOTkwNV5BMl5BanBnXkFtZTgwMTg2ODAwMTI@._V1_Ratio1.7857_AL_.jpg",
+                    "name": "Yatin Karyekar",
+                    "asCharacter": "Krishnaji Bhattas Krishnaji Bhatt"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515bf",
+                    "id": "nm0318783",
+                    "image": "https://imdb-api.com/images/original/MV5BNDVhZWU0NTYtMzE3NS00YWYwLTk5NGMtNjFmMjRiNjNkZTkyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Benjamin Gilani",
+                    "asCharacter": "Raja Chhatrasaalas Raja Chhatrasaal"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c0",
+                    "id": "nm7807666",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Zila Khan",
+                    "asCharacter": "Ruhani Begumas Ruhani Begum"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c1",
+                    "id": "nm0944832",
+                    "image": "https://imdb-api.com/images/original/MV5BOGY0NjEyZjAtNGMxZS00ZjkyLWIyY2ItNzBkNmVjMWRhZDdjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Ganesh Yadav",
+                    "asCharacter": "Malhar Raoas Malhar Rao"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c2",
+                    "id": "nm7052810",
+                    "image": "https://imdb-api.com/images/original/MV5BODFjMWJkNWEtM2QzMy00ZmE4LTlmZTctNGJkNTBhODBlOTg2XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg",
+                    "name": "Sukhada Khandkekar",
+                    "asCharacter": "Anutaias Anutai"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c3",
+                    "id": "nm7052811",
+                    "image": "https://imdb-api.com/images/original/MV5BM2RjOTM3OWYtZWViMi00ZjQ0LWJjZjUtYTM1MDM4ODg4ZTlhXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Anuja Sathe",
+                    "asCharacter": "Bhiutaias Bhiutai"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c4",
+                    "id": "nm7296426",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Swarali Marathe",
+                    "asCharacter": "Jhumrias Jhumri"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c5",
+                    "id": "nm7807667",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Snehalata Vasaikar",
+                    "asCharacter": "Bhanumatias Bhanumati"
+                },
+                {
+                    "_id": "6257cdb5337dd27748f515c6",
+                    "id": "nm7732675",
+                    "image": "https://imdb-api.com/images/original/MV5BYTQ0MzZmZGQtZDkxNi00OWU5LTlhYjctOGYzMDdjNjgxYjkyXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Amol Bavdekar",
+                    "asCharacter": "Shiva Bhattas Shiva Bhatt"
+                }
+            ],
+            "createdAt": "2022-04-13T12:44:49.703Z",
+            "updatedAt": "2022-04-14T07:32:00.015Z",
+            "__v": 0,
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1649921443/video%20Banners/x4ima2idjbgvv3d4mesp.jpg"
+        },
+        {
+            "Ratings": {
+                "imDb": "7.4",
+                "metacritic": "77",
+                "theMovieDb": "6.9",
+                "rottenTomatoes": "94",
+                "tV_com": "",
+                "filmAffinity": "6.7"
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1649921657/thumbnails/nnjblew0iukifvfvurbb.jpg",
+            "cloudinaryBanner_id": "",
+            "launchDate": "2022-04-14T11:04:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/nnjblew0iukifvfvurbb",
+            "cloudinaryVideo_id": "videos/ixu3mxg15ucsqvvhubgl",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1649921674/videos/ixu3mxg15ucsqvvhubgl.mp4",
+            "views": 0,
+            "Id": "tt3040964",
+            "directors": "Jon Favreau",
+            "type": "Movie",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Adventure, Drama, Family",
+            "Languages": "English, Hindi, Bengali, Kannada, Telugu, Tamil, Assamese, Urdu, Oriya, Punjabi, Malayalam, Marathi, Rajasthani, Haryanvi, Nepali",
+            "RuntimeStr": "1h 46min",
+            "Plot": "Living among the wolves in the jungle, young man cub Mowgli quickly learns to live life among his wolf pack and all the animals that inhabit the jungle, but when the villainous tiger Shere Khan threatens Mowgli's life, black panther Bagheera offers to take Mowgli to a nearby man village where he will be safe from the tiger's wrath. Along the way, Mowgli gets tangled up in a series of encounters with a sly snake named Kaa, a swimmingly ruthless gigantopithecus named King Louie and a lazy bear named Baloo, who quickly becomes his guide to the 'bear necessities' of life.",
+            "Writers": "Justin Marks, Rudyard Kipling",
+            "_id": "6257ce79337dd27748f515ca",
+            "title": "The Jungle Book",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6257ce77337dd27748f515c9",
+            "Actors_list": [
+                {
+                    "_id": "6257ff91337dd27748f515cb",
+                    "id": "nm5888481",
+                    "image": "https://imdb-api.com/images/original/MV5BMTk0NzIzMzMzMl5BMl5BanBnXkFtZTgwNDkxOTkzODE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Neel Sethi",
+                    "asCharacter": "Mowglias Mowgli"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515cc",
+                    "id": "nm0000195",
+                    "image": "https://imdb-api.com/images/original/MV5BMTQ1OTM0MjEwOF5BMl5BanBnXkFtZTYwNTQwNzI1._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Bill Murray",
+                    "asCharacter": "Balooas Baloo"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515cd",
+                    "id": "nm0001426",
+                    "image": "https://imdb-api.com/images/original/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Ben Kingsley",
+                    "asCharacter": "Bagheeraas Bagheera"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515ce",
+                    "id": "nm0252961",
+                    "image": "https://imdb-api.com/images/original/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Idris Elba",
+                    "asCharacter": "Shere Khanas Shere Khan"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515cf",
+                    "id": "nm2143282",
+                    "image": "https://imdb-api.com/images/original/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lupita Nyong'o",
+                    "asCharacter": "Rakshaas Raksha"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d0",
+                    "id": "nm0424060",
+                    "image": "https://imdb-api.com/images/original/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Scarlett Johansson",
+                    "asCharacter": "Kaaas Kaa"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d1",
+                    "id": "nm0002064",
+                    "image": "https://imdb-api.com/images/original/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Giancarlo Esposito",
+                    "asCharacter": "Akelaas Akela"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d2",
+                    "id": "nm0000686",
+                    "image": "https://imdb-api.com/images/original/MV5BMjA4ODUyNDQ2NV5BMl5BanBnXkFtZTYwODk2MTYz._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Christopher Walken",
+                    "asCharacter": "King Louieas King Louie"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d3",
+                    "id": "nm0788009",
+                    "image": "https://imdb-api.com/images/original/MV5BODkzMzAxMDMzOV5BMl5BanBnXkFtZTgwNzE2NDM0ODE@._V1_Ratio1.4143_AL_.jpg",
+                    "name": "Garry Shandling",
+                    "asCharacter": "Ikkias Ikki"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d4",
+                    "id": "nm11957946",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Brighton Rose Favreau",
+                    "asCharacter": "Grayas Gray"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d5",
+                    "id": "nm3492402",
+                    "image": "https://imdb-api.com/images/original/MV5BN2M2NWY1M2QtZWM0Zi00ZDQwLWFkYjAtNWIwMDZkZjMwMWNkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Emjay Anthony",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d6",
+                    "id": "nm3528705",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Max Favreau",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d7",
+                    "id": "nm8041206",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Chloe Hechter",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d8",
+                    "id": "nm6239143",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Asher Blinkoff",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515d9",
+                    "id": "nm8041207",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Knox Gagnon",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515da",
+                    "id": "nm8041208",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Sasha Schreiber",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515db",
+                    "id": "nm8050053",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Kai Schreiber",
+                    "asCharacter": "Young Wolfas Young Wolf"
+                },
+                {
+                    "_id": "6257ff91337dd27748f515dc",
+                    "id": "nm0269463",
+                    "image": "https://imdb-api.com/images/original/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Jon Favreau",
+                    "asCharacter": "Pygmy Hogas Pygmy Hog"
+                }
+            ],
+            "createdAt": "2022-04-14T07:34:17.973Z",
+            "updatedAt": "2022-04-14T11:04:00.013Z",
+            "__v": 0
+        },
+        {
+            "Ratings": {
+                "imDb": "7.4",
+                "metacritic": "76",
+                "theMovieDb": "7.2",
+                "rottenTomatoes": "93",
+                "tV_com": "",
+                "filmAffinity": "6.3"
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1649935761/thumbnails/ghqrujjjav9amxobgua7.jpg",
+            "cloudinaryBanner_id": "video Banners/umghekjwfnqqjwmiy7n0",
+            "launchDate": "2022-04-14T11:31:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/ghqrujjjav9amxobgua7",
+            "cloudinaryVideo_id": "videos/dcyymjqi9sm5x5bkiubs",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1649935771/videos/dcyymjqi9sm5x5bkiubs.mp4",
+            "views": 0,
+            "Id": "tt0451279",
+            "directors": "Patty Jenkins",
+            "type": "Movie",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Action, Adventure, Fantasy",
+            "Languages": "English, German, Dutch, Flemish, French, Spanish, Chinese, Greek, Ancient (to 1453), North American Indian",
+            "RuntimeStr": "2h 21min",
+            "Plot": "Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when a pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers and her true destiny.",
+            "Writers": "Allan Heinberg, Zack Snyder, Jason Fuchs",
+            "_id": "62580591337dd27748f515e0",
+            "title": "Wonder Woman",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6258058d337dd27748f515df",
+            "Actors_list": [
+                {
+                    "_id": "625805d8337dd27748f515e1",
+                    "id": "nm2933757",
+                    "image": "https://imdb-api.com/images/original/MV5BYThjM2NlOTItYTUzMC00ODE3LTk1MTItM2I3MDViY2U3MThlXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Gal Gadot",
+                    "asCharacter": "Dianaas Diana"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e2",
+                    "id": "nm1517976",
+                    "image": "https://imdb-api.com/images/original/MV5BMTM4OTQ4NTU3NV5BMl5BanBnXkFtZTcwNjEwNDU0OQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Chris Pine",
+                    "asCharacter": "Steve Trevoras Steve Trevor"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e3",
+                    "id": "nm0000705",
+                    "image": "https://imdb-api.com/images/original/MV5BMTU0NTc4MzEyOV5BMl5BanBnXkFtZTcwODY0ODkzMQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Robin Wright",
+                    "asCharacter": "Antiopeas Antiope"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e4",
+                    "id": "nm0205063",
+                    "image": "https://imdb-api.com/images/original/MV5BMjIwMzE4MzQ5NV5BMl5BanBnXkFtZTgwOTk0NzM4NjM@._V1_Ratio1.5000_AL_.jpg",
+                    "name": "Lucy Davis",
+                    "asCharacter": "Ettaas Etta"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e5",
+                    "id": "nm0001567",
+                    "image": "https://imdb-api.com/images/original/MV5BYzZiYTQ4YTAtMzRkMi00ZDZlLWFkZWItNGI2ZTIyODRiYTc4XkEyXkFqcGdeQXVyMjUzMjc2MjE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Connie Nielsen",
+                    "asCharacter": "Hippolytaas Hippolyta"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e6",
+                    "id": "nm0396812",
+                    "image": "https://imdb-api.com/images/original/MV5BMTA1MTk4NDA0NjZeQTJeQWpwZ15BbWU3MDQ5NzIzNTk@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Danny Huston",
+                    "asCharacter": "Ludendorffas Ludendorff"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e7",
+                    "id": "nm0000667",
+                    "image": "https://imdb-api.com/images/original/MV5BNTA3MjM4NTE0NV5BMl5BanBnXkFtZTcwOTU1OTY4NQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "David Thewlis",
+                    "asCharacter": "Sir Patrickas Sir Patrick"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e8",
+                    "id": "nm0846548",
+                    "image": "https://imdb-api.com/images/original/MV5BMTY4OTc0NjkwMF5BMl5BanBnXkFtZTcwNTcwOTgyNQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Saïd Taghmaoui",
+                    "asCharacter": "Sameeras Sameer"
+                },
+                {
+                    "_id": "625805d8337dd27748f515e9",
+                    "id": "nm0001971",
+                    "image": "https://imdb-api.com/images/original/MV5BNTVjNzNhNzItNjc1ZC00YTJjLWI2MjctMDc4MmMxOGZkZGUxXkEyXkFqcGdeQXVyMTg0NTYyNjU@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Ewen Bremner",
+                    "asCharacter": "Charlieas Charlie"
+                },
+                {
+                    "_id": "625805d8337dd27748f515ea",
+                    "id": "nm4726999",
+                    "image": "https://imdb-api.com/images/original/MV5BNGI5ZmU5OTgtMDExNy00MDBmLWExNTktM2FiZmYxODY4NjA4XkEyXkFqcGdeQXVyMTQxNTEwNzk@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Eugene Brave Rock",
+                    "asCharacter": "The Chiefas The Chief"
+                },
+                {
+                    "_id": "625805d8337dd27748f515eb",
+                    "id": "nm0025745",
+                    "image": "https://imdb-api.com/images/original/MV5BMTc3NjkwMjk0NF5BMl5BanBnXkFtZTgwNTgyMTM0MjI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Elena Anaya",
+                    "asCharacter": "Dr. Maruas Dr. Maru"
+                },
+                {
+                    "_id": "625805d8337dd27748f515ec",
+                    "id": "nm8412222",
+                    "image": "https://imdb-api.com/images/original/MV5BNmU2Y2RjNTAtODI4NS00OWY1LWE4MzUtZmJhZmMwNjJjMDMzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lilly Aspell",
+                    "asCharacter": "Young Diana (8)as Young Diana (8)"
+                },
+                {
+                    "_id": "625805d8337dd27748f515ed",
+                    "id": "nm2966840",
+                    "image": "https://imdb-api.com/images/original/MV5BZmE2Mzc4MmItZmU2Mi00YTE4LWE4NDctNzIxYTQxMjNiOTc2XkEyXkFqcGdeQXVyMTkxMjc0MDQ@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lisa Loven Kongsli",
+                    "asCharacter": "Menalippeas Menalippe"
+                },
+                {
+                    "_id": "625805d8337dd27748f515ee",
+                    "id": "nm2424979",
+                    "image": "https://imdb-api.com/images/original/MV5BNDJjN2ZlYjgtZDU2MC00N2Y5LThiNDEtM2E1OGRmODkyMTc3XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Ann Wolfe",
+                    "asCharacter": "Artemisas Artemis"
+                },
+                {
+                    "_id": "625805d8337dd27748f515ef",
+                    "id": "nm1574386",
+                    "image": "https://imdb-api.com/images/original/MV5BODgyNzk1OTg0MV5BMl5BanBnXkFtZTgwNjA1NzQ4OTE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Ann Ogbomo",
+                    "asCharacter": "Philippusas Philippus"
+                },
+                {
+                    "_id": "625805d8337dd27748f515f0",
+                    "id": "nm6917958",
+                    "image": "https://imdb-api.com/images/original/MV5BOTI2Nzc4OTMtNWNjZS00NTRjLWFlZDMtMzRhN2M0YWIyNmM4XkEyXkFqcGdeQXVyMTU3NTAwNDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Emily Carey",
+                    "asCharacter": "Diana (12)as Diana (12)"
+                },
+                {
+                    "_id": "625805d8337dd27748f515f1",
+                    "id": "nm0181920",
+                    "image": "https://imdb-api.com/images/original/MV5BMzE4MDUzMzgyNl5BMl5BanBnXkFtZTcwNjgwNDcyMQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "James Cosmo",
+                    "asCharacter": "Field Marshall Haigas Field Marshall Haig"
+                },
+                {
+                    "_id": "625805d8337dd27748f515f2",
+                    "id": "nm0434759",
+                    "image": "https://imdb-api.com/images/original/MV5BNTViNTY2ZGUtYzlmOC00MWExLWExNTMtNDM3YTQzMGJiZDNkL2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Wolf Kahler",
+                    "asCharacter": "German Commanderas German Commander"
+                }
+            ],
+            "createdAt": "2022-04-14T11:29:21.328Z",
+            "updatedAt": "2022-04-14T11:31:00.010Z",
+            "__v": 0,
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1649935811/video%20Banners/umghekjwfnqqjwmiy7n0.jpg"
+        },
+        {
+            "Ratings": {
+                "imDb": "8",
+                "metacritic": "76",
+                "theMovieDb": "7.5",
+                "rottenTomatoes": "78",
+                "tV_com": "",
+                "filmAffinity": "7.2"
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1649935894/thumbnails/a8g5l4kyk5yixnza9ahs.jpg",
+            "cloudinaryBanner_id": "video Banners/m2t4hjp2wwj3n3plqdhc",
+            "launchDate": "2022-04-14T11:34:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/a8g5l4kyk5yixnza9ahs",
+            "cloudinaryVideo_id": "videos/phchlzhlm4phzg6zffud",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1649935906/videos/phchlzhlm4phzg6zffud.mp4",
+            "views": 0,
+            "Id": "tt1663202",
+            "directors": "Alejandro G. Iñárritu",
+            "type": "Movie",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Action, Adventure, Drama",
+            "Languages": "English, Pawnee, French",
+            "RuntimeStr": "2h 36min",
+            "Plot": "While exploring uncharted wilderness in 1823, legendary frontiersman Hugh Glass sustains injuries from a brutal bear attack. When his hunting team leaves him for dead, Glass must utilize his survival skills to find a way back home while avoiding natives on their own hunt. Grief-stricken and fueled by vengeance, Glass treks through the wintry terrain to track down John Fitzgerald, the former confidant who betrayed and abandoned him.",
+            "Writers": "Mark L. Smith, Alejandro G. Iñárritu, Michael Punke",
+            "_id": "62580616337dd27748f515f4",
+            "title": "The Revenant",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "62580613337dd27748f515f3",
+            "Actors_list": [
+                {
+                    "_id": "62580672337dd27748f515f5",
+                    "id": "nm0000138",
+                    "image": "https://imdb-api.com/images/original/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Leonardo DiCaprio",
+                    "asCharacter": "Hugh Glassas Hugh Glass"
+                },
+                {
+                    "_id": "62580672337dd27748f515f6",
+                    "id": "nm0362766",
+                    "image": "https://imdb-api.com/images/original/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Tom Hardy",
+                    "asCharacter": "John Fitzgeraldas John Fitzgerald"
+                },
+                {
+                    "_id": "62580672337dd27748f515f7",
+                    "id": "nm2401020",
+                    "image": "https://imdb-api.com/images/original/MV5BNGM5Y2IxNmYtODg5Zi00YjZhLThkZDUtMGE1ODc4N2MyZjAzXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_Ratio1.2286_AL_.jpg",
+                    "name": "Will Poulter",
+                    "asCharacter": "Bridgeras Bridger"
+                },
+                {
+                    "_id": "62580672337dd27748f515f8",
+                    "id": "nm1727304",
+                    "image": "https://imdb-api.com/images/original/MV5BMjA5MjI0MzY2MF5BMl5BanBnXkFtZTcwMzM3ODM3OA@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Domhnall Gleeson",
+                    "asCharacter": "Captain Andrew Henryas Captain Andrew Henry"
+                },
+                {
+                    "_id": "62580672337dd27748f515f9",
+                    "id": "nm5569442",
+                    "image": "https://imdb-api.com/images/original/MV5BMjQxNTE0NTUxMl5BMl5BanBnXkFtZTgwNTk1MTQ2NDM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Forrest Goodluck",
+                    "asCharacter": "Hawkas Hawk"
+                },
+                {
+                    "_id": "62580672337dd27748f515fa",
+                    "id": "nm2167957",
+                    "image": "https://imdb-api.com/images/original/MV5BNzQ5ZTk5MGUtYjRmYi00NTIzLWFlYjMtZjk5MGFlNTg5ODViXkEyXkFqcGdeQXVyMzIzNjk4NzM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Paul Anderson",
+                    "asCharacter": "Andersonas Anderson"
+                },
+                {
+                    "_id": "62580672337dd27748f515fb",
+                    "id": "nm0427379",
+                    "image": "https://imdb-api.com/images/original/MV5BODI0NGY0MWUtMzE1OC00NDQzLTk5M2UtZjViODhjZjIwMThmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Kristoffer Joner",
+                    "asCharacter": "Murphyas Murphy"
+                },
+                {
+                    "_id": "62580672337dd27748f515fc",
+                    "id": "nm3825855",
+                    "image": "https://imdb-api.com/images/original/MV5BMTEzMjUzMzk1NTReQTJeQWpwZ15BbWU4MDYzNTI1NjYx._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Joshua Burge",
+                    "asCharacter": "Stubby Billas Stubby Bill"
+                },
+                {
+                    "_id": "62580672337dd27748f515fd",
+                    "id": "nm0397258",
+                    "image": "https://imdb-api.com/images/original/MV5BMTcxMjEyNjczNl5BMl5BanBnXkFtZTgwMjIyNzcxODE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Duane Howard",
+                    "asCharacter": "Elk Dogas Elk Dog"
+                },
+                {
+                    "_id": "62580672337dd27748f515fe",
+                    "id": "nm7506216",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Melaw Nakehk'o",
+                    "asCharacter": "Powaqaas Powaqa"
+                },
+                {
+                    "_id": "62580672337dd27748f515ff",
+                    "id": "nm2245285",
+                    "image": "https://imdb-api.com/images/original/MV5BODIxYmQxMzQtMDEzZC00MDdkLWJlYTEtNmYwMDIwMDdkOTkzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Fabrice Adde",
+                    "asCharacter": "Toussaintas Toussaint"
+                },
+                {
+                    "_id": "62580672337dd27748f51600",
+                    "id": "nm7790000",
+                    "image": "https://imdb-api.com/images/original/MV5BYjU1MDYyZTctNTdhOC00Y2I0LThiMjItNzhjOTJkZDQ2NDA3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3857_AL_.jpg",
+                    "name": "Arthur RedCloud",
+                    "asCharacter": "Hikucas Hikuc"
+                },
+                {
+                    "_id": "62580672337dd27748f51601",
+                    "id": "nm1495335",
+                    "image": "https://imdb-api.com/images/original/MV5BMTgyNTExNjQ1M15BMl5BanBnXkFtZTgwODA5MjMxMDE@._V1_Ratio1.5000_AL_.jpg",
+                    "name": "Christopher Rosamond",
+                    "asCharacter": "Booneas Boone"
+                },
+                {
+                    "_id": "62580672337dd27748f51602",
+                    "id": "nm0597235",
+                    "image": "https://imdb-api.com/images/original/MV5BMTYwOTQzMTMyMF5BMl5BanBnXkFtZTgwNjcyNDIwMzE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Robert Moloney",
+                    "asCharacter": "Dave Stomach Woundas Dave Stomach Wound"
+                },
+                {
+                    "_id": "62580672337dd27748f51603",
+                    "id": "nm0001305",
+                    "image": "https://imdb-api.com/images/original/MV5BMTQ3MjU1MDMxM15BMl5BanBnXkFtZTgwODk5ODE4MDE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lukas Haas",
+                    "asCharacter": "Jonesas Jones"
+                },
+                {
+                    "_id": "62580672337dd27748f51604",
+                    "id": "nm0281956",
+                    "image": "https://imdb-api.com/images/original/MV5BYzUzZDE5MzYtOGY3Zi00MzYyLTlhZmYtOGZkZmZkMzU0M2Q0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.8429_AL_.jpg",
+                    "name": "Brendan Fletcher",
+                    "asCharacter": "Frymanas Fryman"
+                },
+                {
+                    "_id": "62580672337dd27748f51605",
+                    "id": "nm7818351",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Tyson Wood",
+                    "asCharacter": "Westonas Weston"
+                },
+                {
+                    "_id": "62580672337dd27748f51606",
+                    "id": "nm1080831",
+                    "image": "https://imdb-api.com/images/original/MV5BNjUxZjBiNGEtMzFmYS00YzliLWI5MTMtZGY2NGQzZTIzMmYzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+                    "name": "McCaleb Burnett",
+                    "asCharacter": "Beckettas Beckett"
+                }
+            ],
+            "createdAt": "2022-04-14T11:31:34.406Z",
+            "updatedAt": "2022-04-14T11:34:00.008Z",
+            "__v": 0,
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1649935994/video%20Banners/m2t4hjp2wwj3n3plqdhc.jpg"
+        },
+        {
+            "Ratings": {
+                "imDb": "6.9",
+                "metacritic": "",
+                "theMovieDb": "6.2",
+                "rottenTomatoes": "",
+                "tV_com": "",
+                "filmAffinity": ""
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1650962991/thumbnails/kyyib7of26sytk0grzra.png",
+            "cloudinaryBanner_id": "video Banners/zsabvlq9uoxhqakkmhjj",
+            "launchDate": "2022-04-26T09:02:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/kyyib7of26sytk0grzra",
+            "cloudinaryVideo_id": "videos/uhraxspengvqrj7xhtgf",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1650963009/videos/uhraxspengvqrj7xhtgf.mp4",
+            "views": 0,
+            "Id": "tt11301946",
+            "directors": "Nelson Dilipkumar",
+            "type": "Movie",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BODI4ZjA2ZDEtMWNiOS00Mzc2LTg1MzUtNTdlMTc2NDE2YTc1XkEyXkFqcGdeQXVyMTUxNjUxMjE2._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Action, Comedy, Crime",
+            "Languages": "Tamil",
+            "RuntimeStr": "2h 35min",
+            "Plot": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+            "Writers": "Nelson Dilipkumar",
+            "_id": "6267b22e7e023344e8eb71f5",
+            "title": "Beast",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6267b22c7e023344e8eb71f4",
+            "Actors_list": [
+                {
+                    "_id": "6267b4db7e023344e8eb71fa",
+                    "id": "nm0897201",
+                    "image": "https://imdb-api.com/images/original/MV5BMTY2NzMzZDgtNTkxYS00NDMxLWE3MjAtZmFhYzhhNThjZTI1XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Thalapathy Vijay",
+                    "asCharacter": "Veeraraghavanas Veeraraghavan"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb71fb",
+                    "id": "nm5249562",
+                    "image": "https://imdb-api.com/images/original/MV5BMDZjZjJlY2UtNzllNy00MGUyLWJmNDAtMjE1YTVlMWVkNGY3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Pooja Hegde",
+                    "asCharacter": "Preethias Preethi"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb71fc",
+                    "id": "nm6489058",
+                    "image": "https://imdb-api.com/images/original/MV5BYjNlMTU4MmMtM2IxMy00MjQ3LWJlYmQtZWYwNjM1MjU2MTAyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Yogi Babu",
+                    "asCharacter": "Jillas Jill"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb71fd",
+                    "id": "nm2536215",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Vtv Ganesh",
+                    "asCharacter": "Dominic Irudhayarajas Dominic Irudhayaraj"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb71fe",
+                    "id": "nm13113295",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Shaji Chen",
+                    "asCharacter": "Home Ministeras Home Minister"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb71ff",
+                    "id": "nm10375007",
+                    "image": "https://imdb-api.com/images/original/MV5BNWNkZTYzNWUtZTE5ZC00NGFjLWJlYzQtZmE0NDE4ZGU3ODFjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Aparna Das",
+                    "asCharacter": "Aparnaas Aparna"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7200",
+                    "id": "nm5434119",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Sathish Krishnan",
+                    "asCharacter": "Ramachandranas Ramachandran"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7201",
+                    "id": "nm1207145",
+                    "image": "https://imdb-api.com/images/original/MV5BOGUwZDJhMzUtNGY4MC00ZmQzLWJkYTYtNzEyODFmOTExM2IzXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lilliput",
+                    "asCharacter": "Umar Farooqas Umar Farooq"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7202",
+                    "id": "nm1340178",
+                    "image": "https://imdb-api.com/images/original/MV5BMTk2ZmE4NGQtYmQ2Mi00MzYxLWFlODktMDQ0NzU0MDdmOTExXkEyXkFqcGdeQXVyMjU1Mjg1OTY@._V1_Ratio1.5000_AL_.jpg",
+                    "name": "Ankur Vikal",
+                    "asCharacter": "Umar Saifas Umar Saif"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7203",
+                    "id": "nm10154969",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Shiva Aravind",
+                    "asCharacter": "Killias Killi"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7204",
+                    "id": "nm10402739",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Sunil Reddy",
+                    "asCharacter": "Mahaalias Mahaali"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7205",
+                    "id": "nm13071106",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Sujatha Babu",
+                    "asCharacter": ""
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7206",
+                    "id": "nm3557375",
+                    "image": "https://imdb-api.com/images/original/MV5BNzQ4MTdlNDItZjBhNC00OTMxLTg2NDktN2JlMmIwMjZlZTdjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Shine Tom Chacko",
+                    "asCharacter": ""
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7207",
+                    "id": "nm13113292",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Janani Durga",
+                    "asCharacter": ""
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7208",
+                    "id": "nm10154968",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Redin Kingsley",
+                    "asCharacter": ""
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb7209",
+                    "id": "nm13113293",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Hasini Pavithra",
+                    "asCharacter": ""
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb720a",
+                    "id": "nm1421754",
+                    "image": "https://imdb-api.com/images/original/MV5BNjdjMmNkZDgtMWI3ZS00ZTlmLWI2ZDktNmFmZWRlYTJiNTQzXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio1.1429_AL_.jpg",
+                    "name": "K. Selvaraghavan",
+                    "asCharacter": "Madhav Singhas Madhav Singh"
+                },
+                {
+                    "_id": "6267b4db7e023344e8eb720b",
+                    "id": "nm10973530",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Gayathri Shan",
+                    "asCharacter": ""
+                }
+            ],
+            "createdAt": "2022-04-26T08:49:50.814Z",
+            "updatedAt": "2022-04-26T09:02:00.007Z",
+            "__v": 0,
+            "category": "62506c612770b71f280962bb",
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1650963654/video%20Banners/zsabvlq9uoxhqakkmhjj.png"
+        },
+        {
+            "Ratings": {
+                "imDb": "",
+                "metacritic": "",
+                "theMovieDb": "",
+                "rottenTomatoes": "",
+                "tV_com": "",
+                "filmAffinity": ""
+            },
+            "description": "Handbags in 2022",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1650963342/thumbnails/vebb7o6dlt7xlxarwxen.png",
+            "cloudinaryBanner_id": "video Banners/rmfqia2xy7gvjp6ttevu",
+            "launchDate": "2022-04-26T09:01:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/vebb7o6dlt7xlxarwxen",
+            "cloudinaryVideo_id": "videos/v2bfetj0zzaey5eycuuv",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1650963391/videos/v2bfetj0zzaey5eycuuv.mp4",
+            "views": 0,
+            "Id": "",
+            "directors": "",
+            "type": "",
+            "year": "",
+            "image": "",
+            "genres": "",
+            "Languages": "",
+            "RuntimeStr": "",
+            "Plot": "",
+            "Writers": "",
+            "_id": "6267b38d7e023344e8eb71f7",
+            "title": "Handbags 2022",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6267b38a7e023344e8eb71f6",
+            "Actors_list": [],
+            "createdAt": "2022-04-26T08:55:41.818Z",
+            "updatedAt": "2022-04-26T09:01:00.006Z",
+            "__v": 0,
+            "category": "62506c612770b71f280962bb",
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1650963611/video%20Banners/rmfqia2xy7gvjp6ttevu.png"
+        },
+        {
+            "Ratings": {
+                "imDb": "",
+                "metacritic": "",
+                "theMovieDb": "",
+                "rottenTomatoes": "",
+                "tV_com": "",
+                "filmAffinity": ""
+            },
+            "description": "headlines at 7 am",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1650963454/thumbnails/pi3uozppdzykhgzviekw.png",
+            "cloudinaryBanner_id": "video Banners/wdyopg0apmsgsq4rcsjt",
+            "launchDate": "2022-04-26T09:00:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/pi3uozppdzykhgzviekw",
+            "cloudinaryVideo_id": "videos/ori4g2gsgwaa598jedvt",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1650963471/videos/ori4g2gsgwaa598jedvt.mp4",
+            "views": 0,
+            "Id": "",
+            "directors": "",
+            "type": "",
+            "year": "",
+            "image": "",
+            "genres": "",
+            "Languages": "",
+            "RuntimeStr": "",
+            "Plot": "",
+            "Writers": "",
+            "_id": "6267b3fd7e023344e8eb71f9",
+            "title": "7 am Headlines",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6267b3f67e023344e8eb71f8",
+            "Actors_list": [],
+            "createdAt": "2022-04-26T08:57:33.998Z",
+            "updatedAt": "2022-04-26T09:00:00.010Z",
+            "__v": 0,
+            "category": "62506c612770b71f280962bb",
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1650963557/video%20Banners/wdyopg0apmsgsq4rcsjt.png"
+        },
+        {
+            "Ratings": {
+                "imDb": "7.1",
+                "metacritic": "",
+                "theMovieDb": "7.2",
+                "rottenTomatoes": "",
+                "tV_com": "",
+                "filmAffinity": ""
+            },
+            "description": "",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1650971357/thumbnails/dmnr2ajh8axsr7x9hj4r.png",
+            "cloudinaryBanner_id": "video Banners/adgrgtnst02h1pojqron",
+            "launchDate": "2022-04-26T11:13:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/dmnr2ajh8axsr7x9hj4r",
+            "cloudinaryVideo_id": "videos/jtkurgtzjjxa9qd0h6so",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1650971387/videos/jtkurgtzjjxa9qd0h6so.mp4",
+            "views": 0,
+            "Id": "tt10806040",
+            "directors": "H. Vinoth",
+            "type": "Movie",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BZmQ5NTBmMDgtZmRlMi00MDNmLTg1MWUtMTU3ZGZiMDQ3NzE0XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_Ratio0.6751_AL_.jpg",
+            "genres": "Action, Crime, Thriller",
+            "Languages": "Tamil",
+            "RuntimeStr": "2h 58min",
+            "Plot": "Arjun, an IPS officer sets out for a mission on hunting down illegal bikers involving in theft and murder.",
+            "Writers": "H. Vinoth",
+            "_id": "6267d2dd7e023344e8eb723c",
+            "title": "Valimai",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "6267d2d87e023344e8eb723b",
+            "Actors_list": [
+                {
+                    "_id": "6267d3527e023344e8eb723d",
+                    "id": "nm0015001",
+                    "image": "https://imdb-api.com/images/original/MV5BMmZlNDMwMGMtODQ2Ny00NWI3LTg2NjgtNTFmYjA3Y2IzOTlkXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio1.1429_AL_.jpg",
+                    "name": "Ajith Kumar",
+                    "asCharacter": "ACP Arjun Kumaras ACP Arjun Kumar"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb723e",
+                    "id": "nm4806622",
+                    "image": "https://imdb-api.com/images/original/MV5BMTEwMTkyMDY3OTheQTJeQWpwZ15BbWU4MDE1MjEyMzkx._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Huma Qureshi",
+                    "asCharacter": "Sophiaas Sophia"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb723f",
+                    "id": "nm8257146",
+                    "image": "https://imdb-api.com/images/original/MV5BYmQ1NWFkYmQtMjgwMS00NTNmLTkwNWEtNWY3ZmJkY2NlZTdlXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Kartikeya Gummakonda",
+                    "asCharacter": "Narenas Naren"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7240",
+                    "id": "nm3260483",
+                    "image": "https://imdb-api.com/images/original/MV5BMmVlY2E1Y2ItMjBlNS00ZTI3LTk1NzktOWMwMGI0MWYyZGU3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Gurbani",
+                    "asCharacter": "Saraas Sara"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7241",
+                    "id": "nm1153351",
+                    "image": "https://imdb-api.com/images/original/MV5BYzdkODlkOTUtNmFiYS00NzQwLWE2MWMtYWIzYmE4MDZlMjdlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Sumithra",
+                    "asCharacter": "Lakshmias Lakshmi"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7242",
+                    "id": "nm6489058",
+                    "image": "https://imdb-api.com/images/original/MV5BYjNlMTU4MmMtM2IxMy00MjQ3LWJlYmQtZWYwNjM1MjU2MTAyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Yogi Babu",
+                    "asCharacter": ""
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7243",
+                    "id": "nm5249534",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Selvaah",
+                    "asCharacter": "Policemanas Policeman"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7244",
+                    "id": "nm8030431",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "G.M. Sundar",
+                    "asCharacter": "IG Arasuas IG Arasu"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7245",
+                    "id": "nm5724719",
+                    "image": "https://imdb-api.com/images/original/MV5BMjllNzM2YjctZjYxMi00Y2NkLWIyYzQtZmQwN2NlNGQ0NzkyXkEyXkFqcGdeQXVyNzY3MTExNTA@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Achyuth Kumar",
+                    "asCharacter": "Kodhandamas Kodhandam"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7246",
+                    "id": "nm10804878",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Raj Aiyyappa",
+                    "asCharacter": "Kuttyas Kutty"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7247",
+                    "id": "nm11350859",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Vaishnavi Chaitanya",
+                    "asCharacter": "Arjun's Sisteras Arjun's Sister"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7248",
+                    "id": "nm5807496",
+                    "image": "https://imdb-api.com/images/original/MV5BZDJkYjM1ZTItM2E4My00OGQ3LTlhMjAtNjFjNTYwZTc4ZjdkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Pearle Maaney",
+                    "asCharacter": "Christinaas Christina"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb7249",
+                    "id": "nm9588817",
+                    "image": "https://imdb-api.com/images/original/MV5BMGMzZjg3NzMtYWU0NC00ZGFlLWIyNDktNGZkNTAxMzM2YWM3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Dhruvan",
+                    "asCharacter": "Amitas Amit"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb724a",
+                    "id": "nm10611646",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Chaitra Reddy",
+                    "asCharacter": "Lathaas Latha"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb724b",
+                    "id": "nm6836449",
+                    "image": "https://imdb-api.com/images/original/nopicture.jpg",
+                    "name": "Pavel Navageethan",
+                    "asCharacter": "Selvamas Selvam"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb724c",
+                    "id": "nm5465715",
+                    "image": "https://imdb-api.com/images/original/MV5BOWRiMGU2ZWEtMzRkMS00Mzk5LWE5MzYtY2Q1YTMwY2M0MTYxXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Pugazh",
+                    "asCharacter": "Success Baluas Success Balu"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb724d",
+                    "id": "nm3440031",
+                    "image": "https://imdb-api.com/images/original/MV5BOWYxZWQwY2EtNmRmNi00OThkLTk4ZDctOWFkY2M1ZmRkNmJhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Dinesh Prabhakar",
+                    "asCharacter": "DCP Rajangamas DCP Rajangam"
+                },
+                {
+                    "_id": "6267d3527e023344e8eb724e",
+                    "id": "nm13206371",
+                    "image": "https://imdb-api.com/images/original/MV5BZDZkNmMxMDctOWVmNC00ZGMxLWIzMjMtNDQyMTc1YjE1Yzg4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Shah Emtiaj",
+                    "asCharacter": "Roshini's Brotheras Roshini's Brother"
+                }
+            ],
+            "createdAt": "2022-04-26T11:09:17.820Z",
+            "updatedAt": "2022-04-26T11:13:00.013Z",
+            "__v": 0,
+            "category": "62506c612770b71f280962bb",
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1650971444/video%20Banners/adgrgtnst02h1pojqron.png"
+        },
+        {
+            "Ratings": {
+                "imDb": "8",
+                "metacritic": "",
+                "theMovieDb": "",
+                "rottenTomatoes": "",
+                "tV_com": "",
+                "filmAffinity": ""
+            },
+            "description": "this the action movie",
+            "live": true,
+            "thumbnail": "https://res.cloudinary.com/duenuiiav/image/upload/v1660304114/thumbnails/rcdmabuagohkvlpgyrqc.jpg",
+            "cloudinaryBanner_id": "video Banners/l5zf5mv6au3rrtoo1j53",
+            "launchDate": "2022-08-17T20:19:00.000Z",
+            "cloudinaryThumbnail_id": "thumbnails/rcdmabuagohkvlpgyrqc",
+            "cloudinaryVideo_id": "videos/p6pwhzcudr4sn0huyq54",
+            "launch_flag": true,
+            "video": "https://res.cloudinary.com/duenuiiav/video/upload/v1660304138/videos/p6pwhzcudr4sn0huyq54.mp4",
+            "views": 0,
+            "Id": "tt10198564",
+            "directors": "James Clayton",
+            "type": "Movie",
+            "year": "2022",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjJmZTIwNTgtM2Q5Ni00OTkyLWE1ZDQtMmEyNjlhOTIzNmQ0XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_Ratio0.6762_AL_.jpg",
+            "genres": "Action",
+            "Languages": "English",
+            "RuntimeStr": "1h 21min",
+            "Plot": "After stealing millions in cash from sadistic mob boss Temple's drug-dealing hideout, a thief finds a stowaway in his getaway car: Temple's pregnant wife, Mia. Desperate to reclaim his cash, and his unborn son, Temple sends out a ...",
+            "Writers": "Cooper Bibaud, Danny Mac, James Clayton",
+            "_id": "62f63af329fe010016dac786",
+            "title": "bullet proof",
+            "madeBy": "624ee51a0621354c84c6a854",
+            "studio_id": "62f63af229fe010016dac785",
+            "Actors_list": [
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb0e",
+                    "id": "nm0005068",
+                    "image": "https://m.media-amazon.com/images/M/MV5BZjY4NzQyYTQtNGRjMS00ZmJlLWIzZTUtMDg5OWVjN2U2NjljXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7857_AL_.jpg",
+                    "name": "Vinnie Jones",
+                    "asCharacter": "Temple"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb0f",
+                    "id": "nm8087469",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNjdmYTIwNjAtZmY5Yy00ZWJkLWE3YjktMDQ0N2JlOGFjZDFkXkEyXkFqcGdeQXVyNjY1MzEwNTY@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lina Lecompte",
+                    "asCharacter": "Mia"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb10",
+                    "id": "nm1595718",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMzFmNDg2ODUtZWRjMy00NWUzLTk5ODUtYzI0NDE0NjI1OWZhXkEyXkFqcGdeQXVyNjE5MDIzMg@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "James Clayton",
+                    "asCharacter": "The Thief"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb11",
+                    "id": "nm0335073",
+                    "image": "https://m.media-amazon.com/images/M/MV5BODNlMTFiZDItZGNmYS00MGZmLWFiOTQtM2IwMzJhMTFkNGViXkEyXkFqcGdeQXVyMjIxODE2NTU@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Philip Granger",
+                    "asCharacter": "Vic"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb12",
+                    "id": "nm1029283",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjcwZjQ1MmYtYmU3MS00MjliLWE0YjQtOGFkOTBjMmYyYTE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Glenn Ennis",
+                    "asCharacter": "Griz"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb13",
+                    "id": "nm8232195",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjk4OGY4NTMtYmI0NS00NjkxLWIxN2YtZGZmNjdiZDczOWNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Janvier Katabarwa",
+                    "asCharacter": "The Frenchman"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb14",
+                    "id": "nm0873021",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMGYxYWU3N2QtYzRkMS00M2Y5LWI2ZjgtMWFhZTY0NTg5ODllXkEyXkFqcGdeQXVyMzE4MTI5NQ@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Lori Triolo",
+                    "asCharacter": "Dr. Zimmerman"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb15",
+                    "id": "nm0535254",
+                    "image": "https://m.media-amazon.com/images/M/MV5BZTZmY2E0NTYtMWM3MC00MjNmLWE2YmItNDZiZjBjN2UxYjA3XkEyXkFqcGdeQXVyODk3OTM3NTI@._V1_Ratio1.5143_AL_.jpg",
+                    "name": "Shaw Madson",
+                    "asCharacter": "Lonnie"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb16",
+                    "id": "nm3112415",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYjBhNGQzNjAtYWRkZi00MzFmLWJiODMtZWVkMmZmMGE3MDAyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Cooper Bibaud",
+                    "asCharacter": "Sketch"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb17",
+                    "id": "nm3323483",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYTYzZjMwYzAtZDA4Yi00OTBkLTkzY2UtMWJmNjA0MzVkYzVmXkEyXkFqcGdeQXVyNTI0ODc0NzM@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Danny Mac",
+                    "asCharacter": "Skinny"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb18",
+                    "id": "nm3716343",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjkyMTZhY2UtODMzMi00ZTAxLWE3NDktNGY4NDg1NmQ5YTg3XkEyXkFqcGdeQXVyMjA5NzE2MjI@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Matthew Graham",
+                    "asCharacter": "Officer Lewis"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb19",
+                    "id": "nm3013045",
+                    "image": "https://m.media-amazon.com/images/M/MV5BZjQ0MTUwNzEtYTFmNi00NThmLWJkMWUtZjk3YTQ3MmQwOGY0XkEyXkFqcGdeQXVyMTk4NzU4MzQ@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Sean Kennedy",
+                    "asCharacter": "Denver"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb1a",
+                    "id": "nm0370472",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYmFkOWUxMGUtOWVkNS00YzcyLTgxZDEtOGIzYWYxZjUwN2I1XkEyXkFqcGdeQXVyMjQ4MzYyMw@@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Bonnie Hay",
+                    "asCharacter": "Knoxville Police Dispatch (VO)"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb1b",
+                    "id": "nm2807260",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMmQzNWQ2ZjUtNDdhOS00NGY0LTg4ZjEtZTkwMmUyMWRkMDAwXkEyXkFqcGdeQXVyNjQzNTMyMDk@._V1_Ratio1.3429_AL_.jpg",
+                    "name": "Michael Mitton",
+                    "asCharacter": "Ronnie"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb1c",
+                    "id": "nm1340564",
+                    "image": "https://m.media-amazon.com/images/M/MV5BODEyOTQ5MzMyMl5BMl5BanBnXkFtZTgwNDk2NDczMTE@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Thomas Potter",
+                    "asCharacter": "Ray"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb1d",
+                    "id": "nm1328566",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNDMyYTFiYzQtNDdlYi00YjYyLWE1ZjYtNzBjZDliZjY5ZmE0XkEyXkFqcGdeQXVyNjEyNDIzNjQ@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Blaine Anderson",
+                    "asCharacter": "Officer Edwards"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb1e",
+                    "id": "nm1495446",
+                    "image": "https://m.media-amazon.com/images/M/MV5BOWNlNWU4NDItOGYxZS00YjQ3LWJmM2ItNzVhNmVhYmQ2YjY4XkEyXkFqcGdeQXVyMTMxOTA0Njc@._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Jason Wingham",
+                    "asCharacter": "Husband, Cook #1"
+                },
+                {
+                    "_id": "62fd4a0d8f3eb42d6c70cb1f",
+                    "id": "nm10271998",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMWQ4YWMzOWMtOTQ5Ny00YTZkLTlmMTItZTEzMTM3NmE3MDk5XkEyXkFqcGdeQXVyMTA3MTUyOTcx._V1_Ratio1.0000_AL_.jpg",
+                    "name": "Vesna Ennis",
+                    "asCharacter": "Highway Patrol Woman"
+                }
+            ],
+            "createdAt": "2022-08-12T11:35:15.249Z",
+            "updatedAt": "2022-08-17T20:19:00.002Z",
+            "__v": 0,
+            "category": "62506c612770b71f280962bb",
+            "banner": "https://res.cloudinary.com/duenuiiav/image/upload/v1660766716/video%20Banners/l5zf5mv6au3rrtoo1j53.jpg"
+        }
+    ]
+}
